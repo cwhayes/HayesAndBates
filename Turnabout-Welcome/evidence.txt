@@ -1,0 +1,20 @@
+//EVIDENCE
+
+set badge_name Attorney's badge
+set badge_pic lawyerbadge
+set badge_desc This is pretty much the only reason anybody believes that I'm an attorney.
+
+//PROFILES
+
+set hayes$_name Conor Hayes
+set hayes$_pic
+set hayes$_desc Age: 22{n}Gender: Male
+
+set carlin$_name Carlin Morris
+set carlin$_pic carlin
+set carlin$_desc Age:25{n}Gender: Female
+
+set bates$_name Jarrett Bates
+set bates$_pic
+set bates$_desc Age:??{n}Gender: Male
+
