@@ -1,0 +1,37 @@
+bg helper
+
+char Carlin e=adjusts(combined)
+"Adjusts"
+
+char Carlin e=glasses(combined)
+"Glasses"
+
+char Carlin e=hair(combined)
+"Hair"
+
+char Carlin e=hiya(combined)
+"Hiya"
+
+char Carlin e=mu(combined)
+"Mu"
+
+char Carlin e=normal(combined)
+"Normal"
+
+char Carlin e=profile(combined)
+"Profile"
+
+char Carlin e=smirks(combined)
+"Smirks"
+
+char Carlin e=snacks(combined)
+"Snacks"
+
+char Carlin e=uninterested(combined)
+"Uninterested"
+
+char Carlin e=whoa(combined)
+"Whoa"
+
+char Carlin e=won't-share(combined)
+"Won't Share"
