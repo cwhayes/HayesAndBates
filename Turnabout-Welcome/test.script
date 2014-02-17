@@ -1,0 +1,31 @@
+bg courtfull
+fg dbench
+
+set _defense Hayes
+set _prosecutor Bates
+set _witness Edgeworth
+set _judge none
+set _helper Carlin
+startcourt
+
+char hayes e=objects
+"The witness will explain the role of the guitar!"
+
+helper
+
+char carlin e=whoa(combined)
+"What?!"
+
+prosecutor
+
+char bates e=sweating(talk)
+"Yeah, what is this?"
+
+witness
+
+char edgeworth e=forward(blink)
+".{p 60}.{p 60}."
+
+char edgeworth e=forward(talk)
+"No, it's fine. I'll explain"
+
