@@ -1,0 +1,11 @@
+set _textbox_wrap true 
+set _textbox_lines 3 
+
+include evidence
+
+addev badge
+addev hayes$
+addev carlin$
+addev bates$
+
+script test
